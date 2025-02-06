@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="New Architecture"
+                 start-page="starter.md">
+
+    <toc-element topic="starter.md"/>
+    <toc-element topic="Wildcat.md">
+        <toc-element topic="Statistics.md">
+            <toc-element topic="Usage.md"/>
+            <toc-element topic="Cost.md">
+            </toc-element>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="v2-0-Containerized.md">
+        <toc-element topic="Costs.md"/>
+        <toc-element topic="Performance.md"/>
+        <toc-element topic="Reliability.md"/>
+        <toc-element topic="Development-Time.md"/>
+    </toc-element>
+    <toc-element topic="Summary.md"/>
+</instance-profile>
