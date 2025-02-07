@@ -1,6 +1,6 @@
 # Summary
 
-We are an excellent position with our new architecture. It massively:
+We are in an excellent position with our new architecture. It massively:
 
 * reduces costs
 
